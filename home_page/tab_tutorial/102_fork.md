@@ -21,7 +21,7 @@ GitHub の画面からハニープロジェクトをフォークします。
 `Owner` が自分のアカウントになっていることを確認してください。
 
 ![image](/tutorial/fork.png)  
-<a href="https://github.com/rubydog-jp/hunny/fork" class='linkbutton'>フォークの画面 (GitHub) へ</a>
+<a href="https://github.com/rubydogjp/hunny/fork" class='linkbutton'>フォークの画面 (GitHub) へ</a>
 
 <br />
 
@@ -53,14 +53,14 @@ $ git clone https://ghp_Xxxx1122Yyyy3344Zzzz5566AaaaBbbbCccc@github.com/rbdog/hu
 
 ```
 $ cd hunny
-$ git remote add upstream https://github.com/rubydog-jp/hunny.git
+$ git remote add upstream https://github.com/rubydogjp/hunny.git
 ```
 
 <details>
   <summary> 例 </summary>
   <pre>
 $ cd hunny <br />
-$ git remote add upstream https://github.com/rubydog-jp/hunny.git
+$ git remote add upstream https://github.com/rubydogjp/hunny.git
   </pre>
 </details>
 

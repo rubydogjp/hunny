@@ -54,7 +54,7 @@ $ git push origin feat/new_cell_rbdog_2
 <br />
 
 ![gif](/tutorial/pull-req.gif)  
-<a href="https://github.com/rubydog-jp/hunny/pulls" class='linkbutton'>プルリクエストを作成</a>
+<a href="https://github.com/rubydogjp/hunny/pulls" class='linkbutton'>プルリクエストを作成</a>
 
 <br />
 

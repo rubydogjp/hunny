@@ -26,7 +26,7 @@ title: 手順3. イシュー
 - 説明: `アプリ内に新しく rbdog のデータを追加します`
 
 ![gif](/tutorial/issue.gif)  
-<a href="https://github.com/rubydog-jp/hunny/issues" class='linkbutton'>こちらのページから issue を発行</a>
+<a href="https://github.com/rubydogjp/hunny/issues" class='linkbutton'>こちらのページから issue を発行</a>
 
 <br />
 

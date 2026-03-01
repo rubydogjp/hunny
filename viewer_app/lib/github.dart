@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'package:app/cell.dart';
 
 const urlString =
-    'https://raw.githubusercontent.com/rubydog-jp/hunny/main/data/cells.json';
+    'https://raw.githubusercontent.com/rubydogjp/hunny/main/data/cells.json';
 
 class Github {
   Future<Cells> getCells() async {

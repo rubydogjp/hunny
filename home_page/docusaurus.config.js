@@ -11,10 +11,10 @@ const config = {
   tagline: "はじめての共同開発、失敗し放題",
   favicon: "general/favicon.png",
 
-  url: "https://rubydog-jp.github.io",
+  url: "https://rubydogjp.github.io",
   baseUrl: "/hunny/",
 
-  organizationName: "rubydog-jp",
+  organizationName: "rubydogjp",
   projectName: "hunny",
 
   onBrokenLinks: "warn",
